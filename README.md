@@ -1,6 +1,6 @@
 # Welcome to your [FASTN site](https://fastn.io/)
 
-FASTN <repo_name> Template Repo
+FASTN anshula04 Template Repo
 
 ## 🧞 Commands
 
